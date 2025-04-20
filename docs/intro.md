@@ -1,5 +1,5 @@
 ---
-sidebar_position: yakAPI
+sidebar_position: 1
 sidebar_label: yakAPI
 slug: /docs/intro
 tags: []
