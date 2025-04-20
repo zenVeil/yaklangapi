@@ -1,0 +1,17 @@
+---
+sidebar_position: yakAPI
+sidebar_label: yakAPI
+slug: /docs/intro
+tags: []
+title: yakAPI
+description: yakAPI
+---
+
+# yakAPI
+
+[Yakit API 手册](https://yaklang.io/api-manual/intro) 官网手册写的有点模糊, 在编写脚本的时候很多函数根本没有示例或者介绍都不全, 因此编写这个手册主要用于帮助插件编写者快速知晓 API 的作用以及使用建议。
+
+同时也将一些常见项目示例中会用到的代码写在 `项目示例` 中, 方便新手或者开发者快速编写, 如果你有一些其他的值得提供的建议可以提交 ISSUE。
+
+# 进度
+- [ ] 官网 API 手册补充 (正在进行中)
