@@ -68,7 +68,7 @@ const config: Config = {
         },
         
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/zenVeil/yaklangapi',
           label: 'GitHub',
           position: 'right',
         },
